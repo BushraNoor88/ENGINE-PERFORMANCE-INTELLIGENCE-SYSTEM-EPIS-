@@ -1,4 +1,4 @@
-# Jet Engine Cycle Analysis with ML-Based Parameter Calibration
+# EPIS : Jet Engine Cycle Analysis with ML-Based Parameter Calibration
 
 A single-spool turbojet thermodynamic cycle model (Brayton cycle), built
 with an object-oriented gas-path architecture, paired with two different
